@@ -12,4 +12,5 @@ Trabajadora de microsystem
  Permitir aplicar mis conocimientos y experiencias en las distintas areas de la empresa
  para asi desarrollarme profesionalmente en el buen desempeño de las funciones asignadas
 
- 
+ ## Pasatiempos
+ - Bailar
